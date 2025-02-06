@@ -1,3 +1,18 @@
 [submodule "Lecture-React"]
 	path = Lecture-React
 	url = https://github.com/Codify-Berkeley-Education/Lecture-React
+[submodule "Lecture-Databases"]
+	path = Lecture-Databases
+	url = https://github.com/Codify-Berkeley-Education/Lecture-Databases
+[submodule "Lecture-JavaScript"]
+	path = Lecture-JavaScript
+	url = https://github.com/Codify-Berkeley-Education/Lecture-JavaScript
+[submodule "Lecture-Tailwind"]
+	path = Lecture-Tailwind
+	url = https://github.com/Codify-Berkeley-Education/Lecture-Tailwind
+[submodule "Lecture-tRPC"]
+	path = Lecture-tRPC
+	url = https://github.com/Codify-Berkeley-Education/Lecture-tRPC
+[submodule "Lecture-TypeScript"]
+	path = Lecture-TypeScript
+	url = https://github.com/Codify-Berkeley-Education/Lecture-TypeScript
